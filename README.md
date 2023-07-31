@@ -5,8 +5,9 @@ Requirements:
 Langchain
 OpenAi
 OpenAI apikey
-vectorDB
-FAISS
-LLM with FAISS(Vector DB) to store user data.
+streamlit
+
+LLM with Memory chatbot.
+persist user states
 QA chain applied 
 agents
